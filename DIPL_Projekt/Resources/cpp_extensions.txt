@@ -1,0 +1,7 @@
+﻿.cpp
+.C
+.cc
+.CPP
+.cp
+.cxx
+.c++
